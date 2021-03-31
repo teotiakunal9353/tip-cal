@@ -1,0 +1,19 @@
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip_calculator.Form1.resources
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.csproj.GenerateResource.cache
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.AssemblyInfoInputs.cache
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.AssemblyInfo.cs
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\tip calculator.exe
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\tip calculator.deps.json
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\tip calculator.runtimeconfig.json
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\tip calculator.runtimeconfig.dev.json
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\tip calculator.dll
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\ref\tip calculator.dll
+C:\Users\kunal\source\repos\tip calculator\tip calculator\bin\Debug\net5.0-windows\tip calculator.pdb
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.dll
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\ref\tip calculator.dll
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.pdb
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.genruntimeconfig.cache
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip calculator.csprojAssemblyReference.cache
+C:\Users\kunal\source\repos\tip calculator\tip calculator\obj\Debug\net5.0-windows\tip_calculator.Properties.Resources.resources
